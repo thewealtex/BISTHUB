@@ -36,4 +36,4 @@ Yada iframe ile hazır kodlar olarak eklemek için aşağıdaki iframe kodunu ku
 
 <iframe src="https://www.genelpara.com/embed/?symbol=borsa&borsa=AKBNK,ASELS,EREGL,GARAN,KRDMD&stil=stil-6&renk=beyaz" frameborder="0" width="1020" height="300"></iframe>
 
-GP.
+GP. https://www.genelpara.com/api-kodu/
