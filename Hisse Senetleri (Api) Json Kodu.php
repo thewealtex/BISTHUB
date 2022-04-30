@@ -31,6 +31,7 @@ Hisse senetleri json ile api olarak sitenize eklemek için aşağıdaki kodları
     </li>
 </ul>
 
+Yada iframe ile hazır kodlar olarak eklemek için aşağıdaki iframe kodunu kullanabilirsiniz.
 
 https://www.genelpara.com/sitene-ekle/
-ttps://www.genelpara.com/api-kodu/
+https://www.genelpara.com/api-kodu/
